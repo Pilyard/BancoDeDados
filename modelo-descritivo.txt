@@ -1,0 +1,7 @@
+Desenvolvam em equipe o modelo descritivo de dados de acordo com o assunto escolhido na planilha de Planejamento - Projeto Prático
+
+Razão social:  (Zarda)
+Atividade econômica: Vestuário
+
+Criação de um marketplace onde haveria um layout expondo todos os produtos sendo exibidos por categorias e também uma página única para alertar todas as promoções que estivessem em vigor. As formas de pagamento integrada seria feito por meio do PIX, cartões nacionais e internacionais e boleto. Inserir um espaço na conta do cliente (usuário) onde ele poderia verificar todos os pedidos já feitos e em trânsito, assim como todos os seus dados pessoais, endereços e cartões para pagamento cadastrados.
+Todos os pagamentos devem ter uma taxa sobre cada compra realizada variando entre 5% e 8% em cada valor do pedido feito. No canto inferior direito, irá aparecer um ícone de chat para o usuário poder entrar em contato com o chatterbot (equipe de suporte e atendimento ao cliente). Também haverá um campo em que os clientes (usuários) acessarão uma página de assinaturas premium com empresas parceiras, se o usuário assinar qualquer plano, ele terá descontos exclusivos em determinadas categorias de produtos.
